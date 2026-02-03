@@ -33,6 +33,13 @@ sysadmin-ubuntu-lab/
 - Ejercicios prácticos
 - Retos reales tipo empresa
 
+## Cómo usar este repositorio
+
+Cada día:
+1. Leo teoría y hago ejercicios.
+2. Documento en `logs/daily-log.md`.
+3. Subo cambios con Git.
+
 ## Autor
 Raúl O. – Telematics Engineer / Linux Enthusiast
 
