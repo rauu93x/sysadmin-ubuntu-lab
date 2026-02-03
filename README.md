@@ -13,6 +13,8 @@ Convertirme en sysadmin junior dominando:
 
 ## Estructura
 
+```text
+
 sysadmin-ubuntu-lab/
 ├── 00-setup/
 ├── 01-week1-cli/
@@ -24,6 +26,7 @@ sysadmin-ubuntu-lab/
 └── cheatsheets/
 └── commands.md
 
+```
 
 ## Metodología
 - Registro diario de aprendizaje
