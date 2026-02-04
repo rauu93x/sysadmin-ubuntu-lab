@@ -1,0 +1,29 @@
+mié 04 feb 2026 18:21:27 UTC
+=== pwd ===
+/etc
+=== ls -lah /etc (head) ===
+total 948K
+drwxr-xr-x 111 root root      4,0K feb  3 17:01 .
+drwxr-xr-x  23 root root      4,0K feb  2 03:07 ..
+-rw-r--r--   1 root root      3,4K jul  5  2023 adduser.conf
+drwxr-xr-x   2 root root      4,0K feb  2 03:08 alternatives
+drwxr-xr-x   2 root root      4,0K feb  2 03:17 apparmor
+drwxr-xr-x   9 root root       12K feb  2 03:17 apparmor.d
+drwxr-xr-x   3 root root      4,0K ago  5  2025 apport
+drwxr-xr-x   9 root root      4,0K feb  2 03:04 apt
+-rw-r--r--   1 root root      2,3K mar 31  2024 bash.bashrc
+=== file/stat /etc/passwd ===
+/etc/passwd: ASCII text
+  File: /etc/passwd
+  Size: 1775      	Blocks: 8          IO Block: 4096   regular file
+Device: 259,2	Inode: 11798210    Links: 1
+Access: (0644/-rw-r--r--)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2026-02-04 18:14:46.004392904 +0000
+Modify: 2026-02-02 03:10:17.620722319 +0000
+Change: 2026-02-02 03:10:17.621722319 +0000
+ Birth: 2026-02-02 03:10:17.620722319 +0000
+=== hostname ===
+lab-ubuntu
+=== ip a (resumen) ===
+lo               UNKNOWN        127.0.0.1/8 ::1/128 
+enp5s0           UP             192.168.1.108/24 metric 100 2806:109f:11:9a79:d65d:64ff:fe27:9038/64 fe80::d65d:64ff:fe27:9038/64 
